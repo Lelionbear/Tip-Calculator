@@ -32,7 +32,14 @@ class ViewController: UIViewController {
     
     @IBAction func calculateTip(_ sender: Any) {
         
-        let bill = Double(billField.text!) ?? 0
+        let bill: Double
+        
+        if Double(billField.text!) ?? 0 < 0.0 {
+            bill = 0.0
+        } else {
+            bill = Double(billField.text!) ?? 0
+        }
+        
         
         let tipArr = [0.15,0.18,0.2]
         
