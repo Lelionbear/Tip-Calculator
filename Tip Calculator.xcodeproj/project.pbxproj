@@ -192,6 +192,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1160;
 				LastUpgradeCheck = 1160;
+				ORGANIZATIONNAME = CodePath;
 				TargetAttributes = {
 					2558EE7924D7CB55001ADE46 = {
 						CreatedOnToolsVersion = 11.6;
