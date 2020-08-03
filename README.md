@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [X] Added some logic to prevet calculations on negative numbers.
 
 ## Video Walkthrough 
 
@@ -33,7 +33,7 @@ GIF created with [recordit](http://www.recordit.co).
 
 ## Notes
 
-I had the weirdest bugs at the start, I had to start from scratch and that somehow worked.
+I had the weirdest bugs at the start that I had to start from scratch and somehow this ended up working.
 
 ## License
 
